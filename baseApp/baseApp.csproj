@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Src/Modules/Provider/Application/interfaces/" />
     <Folder Include="Src\" />
     <Folder Include="Src\Modules\" />
     <Folder Include="Src\Modules\Provider\" />
